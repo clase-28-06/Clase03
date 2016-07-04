@@ -1,0 +1,24 @@
+1. Crear una hoja de estilos CSS y usar la etiqueta link para adjuntarla a la página HTML del ejercicio de la clase 2.
+
+2. En la hoja CSS debe haber por lo menos un comentario.
+
+3. Utilizar una imagen de fondo en el <body>. Para esto buscar en google "background images". Utilizar también un color de fondo.
+
+4. Utilizar un selector ID para una de las etiquetas de encabezados, cuyo estilo incluya negrita y una tipografía de Google fonts.
+
+5. Utilizar un selector de clase para los dos párrafos, cuyo estilo tenga tamaño de letra de 14px y un interlineado de 18px.
+
+6. Utilizar un selector de elemento para el otro encabezado y especificando en su estilo un color en RGB Hexadecimal.
+
+7. Incluir a ambos párrafos en una sección <div> que contenga un borde con líneas rayadas de 2 px de ancho y color verde.
+
+8. El encabezado principal debe estar ubicado en el centro y tener en mayúsculas la primer letra de cada palabra (usando CSS).
+
+9. La lista ordenada debe mostrar como viñeta un círculo relleno.
+
+10. Incluir en el footer íconos de Facebook, Twitter e Instagram.
+
+
+
+
+
